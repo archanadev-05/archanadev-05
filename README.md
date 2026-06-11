@@ -1,16 +1,62 @@
-## Hi there 👋
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:42a5f5&height=200&section=header&text=Archana%20Thanuwana&fontSize=35&fontColor=ffffff" />
+</p>
 
-<!--
-**archanadev-05/archanadev-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there!
 
-Here are some ideas to get you started:
+🎓 Undergraduate at University of Moratuwa  
+💻 Faculty of Information Technology  
+🤖 AI & Machine Learning Enthusiast  
+📱 Learning Flutter & Angular  
+🚀 Software Development & Problem Solving  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=archanadev-05&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archanadev-05&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=archanadev-05&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🧠 Skills & Technologies
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
+![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
+![Machine Learning](https://img.shields.io/badge/ML-AI-green?style=for-the-badge)
+
+---
+
+## 🌱 Currently Learning
+- Flutter Mobile App Development  
+- Angular Frontend Framework  
+- Machine Learning & AI Concepts  
+- Software Engineering Fundamentals  
+
+---
+
+## 🌐 Portfolio
+🚧 Coming Soon — Building something awesome!
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📫 Contact
+📧 Email: archanathanuwana@gmail.com
