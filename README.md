@@ -21,9 +21,9 @@
 
 ---
 
-## 🏆 GitHub Trophy
+## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=archanadev-05&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+  <img src="https://streak-stats.demolab.com?user=archanadev-05&theme=tokyonight&hide_border=false" />
 </p>
 ---
 
