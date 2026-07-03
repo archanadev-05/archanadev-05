@@ -13,15 +13,9 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=archanadev-05&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archanadev-05&layout=compact&theme=tokyonight" />
-</p>
 
 ---
-
-## 🔥 GitHub Streak
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=archanadev-05&theme=tokyonight&hide_border=false" />
 </p>
