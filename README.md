@@ -1,4 +1,3 @@
-Yes. Here is the complete README as one single file. Copy everything inside this block and paste it directly into README.md on GitHub.
 
 <!-- ========================================================= -->
 <!--                 ARCHANA THANUWANA                        -->
