@@ -1,52 +1,35 @@
-<!-- Animated Header -->
+<!-- ======================= HEADER ======================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:42a5f5&height=200&section=header&text=Archana%20Thanuwana&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0d47a1,100:42a5f5&height=220&section=header&text=Archana%20Thanuwana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18" />
 </p>
 
-# 👋 Hi there!
+<!-- ======================= INTRO ======================= -->
 
-🎓 Undergraduate at University of Moratuwa  
-💻 Faculty of Information Technology  
-🤖 AI & Machine Learning Enthusiast  
-📱 Learning Flutter & Angular  
-🚀 Software Development & Problem Solving  
-
----
-
-## 🧠 Skills & Technologies
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
-![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
-![Machine Learning](https://img.shields.io/badge/ML-AI-green?style=for-the-badge)
-
----
-
-## 🌱 Currently Learning
-- Flutter Mobile App Development  
-- Angular Frontend Framework  
-- Machine Learning & AI Concepts  
-- Software Engineering Fundamentals  
-
----
-
-## 🐍 Contribution Snake
+<h1 align="center">
+  👋 Hello, I'm Archana Thanuwana
+</h1>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/archanadev-05/archanadev-05/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/archanadev-05/archanadev-05/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/archanadev-05/archanadev-05/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <b>Software Engineering Undergraduate • AI/ML Enthusiast • Problem Solver</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/archanadev-05">
+    <img src="https://komarev.com/ghpvc/?username=archanadev-05&label=Profile%20Views&color=0d47a1&style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
-## 🌐 Portfolio
-🚧 Coming Soon — Building something awesome!
+## 🧬 About Me
 
----
-
-## 📫 Contact
-📧 Email: archanathanuwana@gmail.com
+```text
+🎓 University       → University of Moratuwa
+🏛️ Faculty          → Faculty of Information Technology
+💻 Focus            → Software Engineering
+🤖 Exploring        → Artificial Intelligence & Machine Learning
+📱 Mobile           → Flutter
+🌐 Frontend         → Angular
+🧠 Interests        → Algorithms • Systems • AI • Problem Solving
+🚀 Goal             → Building scalable & intelligent software
