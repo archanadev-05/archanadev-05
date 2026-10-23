@@ -16,6 +16,15 @@
   <a href="https://github.com/archanadev-05?tab=followers">
     <img src="https://img.shields.io/github/followers/archanadev-05?label=FOLLOWERS&style=for-the-badge&color=2563eb" alt="Followers" />
   </a>
+  
+</p>
+<p align="center">
+  <a href="https://archanadev-05.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-archanadev--05.github.io-0d47a1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
+  </a>
+  <a href="https://archanadev-05.github.io/assets/docs/Archana_Thanuwana_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Download_CV-PDF-059669?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
+  </a>
 </p>
 
 ---
