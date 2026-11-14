@@ -44,19 +44,19 @@
 **Languages & Frameworks**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,dart,ts,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,php,dart,ts,js,html,css&theme=dark" />
 </p>
 
 **Web, Mobile & Backend**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,angular,nextjs,react,tailwind,fastapi,postgres,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,angular,nextjs,react,tailwind,fastapi,postgres,mysql,docker&theme=dark" />
 </p>
 
 **Embedded, AI & Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,git,github,vscode,blender&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=arduino,git,github,vscode&theme=dark" />
   <br/>
   <img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/FreeRTOS-62B47A?style=for-the-badge" />
