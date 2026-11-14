@@ -6,7 +6,7 @@
 <h1 align="center">👋 Hi, I'm Archana Thanuwana</h1>
 
 <p align="center">
-  <b>Software Engineering Undergraduate • AI/ML Enthusiast • Developer</b>
+  <b>IT Undergraduate • Embedded Systems • Full-Stack Developer • AI/ML Enthusiast</b>
 </p>
 
 <p align="center">
@@ -31,29 +31,51 @@
 
 ## 🧑‍💻 About Me
 
-🎓 Undergraduate at **University of Moratuwa**  
-💻 Faculty of Information Technology  
-🤖 Interested in **Artificial Intelligence & Machine Learning**  
-📱 Learning **Flutter & Angular**  
+🎓 Undergraduate at **University of Moratuwa** (B25, Faculty of Information Technology)  
+⚙️ Building across **embedded systems, full-stack development, and AI/ML**  
+🤖 Working with **multi-agent AI systems** (LangGraph / LangChain)  
+📱 Building mobile apps with **Flutter** and web apps with **Next.js**  
 🚀 Passionate about **Software Development & Problem Solving**
 
 ---
 
 ## 🛠️ Tech Stack
 
+**Languages & Frameworks**
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,dart,flutter,angular,html,css,js,ts,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,dart,ts,js,html,css&theme=dark" />
+</p>
+
+**Web, Mobile & Backend**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,angular,nextjs,react,tailwind,fastapi,postgres,docker&theme=dark" />
+</p>
+
+**Embedded, AI & Tools**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,git,github,vscode,blender&theme=dark" />
+  <br/>
+  <img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/FreeRTOS-62B47A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
 ---
 
 ## 🌱 Currently Learning
 
-- 🤖 Machine Learning & Artificial Intelligence
+- 🤖 Multi-agent AI systems & Machine Learning
 - 📱 Flutter Mobile Development
-- 🌐 Angular & Modern Web Development
+- 🌐 Angular & Next.js
+- ⚙️ Embedded Systems & Real-Time Firmware (FreeRTOS)
+- 🗺️ Geospatial Backends (FastAPI + PostGIS)
 - 🧠 Data Structures & Algorithms
-- ⚙️ Software Engineering
 - 🚀 DevOps & CI/CD
 
 ---
@@ -74,21 +96,11 @@
 
 ## 🚀 Goals
 
-- Build real-world software projects
-- Develop practical AI/ML applications
-- Improve mobile and web development skills
+- Ship real-world projects that combine hardware, software, and AI
+- Develop practical multi-agent AI applications
+- Complete the GPS destination system and polish the beverage dispenser
 - Learn modern software architecture
-- Continuously grow as a software engineer
-
----
-
-## 📂 Projects
-
-<p align="center">
-  <a href="https://github.com/archanadev-05?tab=repositories">
-    <img src="https://img.shields.io/badge/🚀_View_My_Projects-0d47a1?style=for-the-badge&logo=github&logoColor=white" alt="View Projects" />
-  </a>
-</p>
+- Continuously grow as an engineer
 
 ---
 
